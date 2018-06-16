@@ -6,4 +6,4 @@ Download using NuGet
 
 Add as a submodule for Git
 
-    git submodule add git@github.com:zloveless/Atlantis.Windows.git
+    git submodule add https://github.com/zloveless/Atlantis.Windows.git
